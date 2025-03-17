@@ -1,3 +1,10 @@
+# Simple Woocommerce Theme (Bootstrap)
+
+This is a practice theme developed under make hub.
+
+![Screenshot](screenshot.png "Screenshot")
+
+
 ```php
 
 // These are actions you can unhook/remove!
