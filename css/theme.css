@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-menus {
+    display: flex;
+}
+.site-menus ul {
+    list-style: none;
+    inset-inline: inherit;    
+}
+.site-menus a {
+    padding: 8px;
+    text-decoration: none;
+}
+
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+}
+
+.woocommerce ul.products li.product a {
+    text-decoration: none;
+    color: #333;
+}
+
+.woocommerce ul.products li.product a:hover {
+    color: #0073aa;
+}
+
+div.wc-block-cart__submit-container a{
+    background: black !important;
+    color: white !important;
+    text-decoration: none;
+}
